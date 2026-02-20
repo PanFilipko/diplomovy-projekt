@@ -37,4 +37,4 @@ Minimálne asymetrické grafy.
 ## Aktuálna verzia
 
 Posledná verzia projektu je dostupná v tomto repozitári.
-PDF verzia práce: `diplomovka.pdf`
+PDF verzia práce: `Diplomová_praca.pdf`
